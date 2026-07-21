@@ -109,14 +109,6 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 
 <br/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aka-Trophy-Hunter&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
-
-</div>
-
 ## 📊 Chronicle of Contributions
 
 <div align="center">
@@ -126,11 +118,5 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 </div>
 
 <br/>
-
-## 🏹 Send a Raven
-
-<div align="center">
-
-<i>"Every dataset is a map, every model a compass, the quest continues."</i>
 
 </div>
