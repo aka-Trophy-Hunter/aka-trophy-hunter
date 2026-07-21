@@ -121,8 +121,6 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aka-Trophy-Hunter&theme=tokyonight&hide_border=true" width="60%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-Trophy-Hunter&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
@@ -133,8 +131,6 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 
 <div align="center">
 
-<i>"Every dataset is a map, every model a compass — the quest continues."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=120&section=footer" width="100%"/>
+<i>"Every dataset is a map, every model a compass, the quest continues."</i>
 
 </div>
