@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=230&section=header&text=Moneeba%20Abrar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Gold+Medalist+%40+University+of+Haripur;Top+1%+Scientist;93%+in+National+IT+Skill+Competency+Test;Building+AI+that+actually+sees;Final+Year+Project+Position+Holder;Merit+Scholrship+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Gold+Medalist+%40+University+of+Haripur;Top+0.1%+Scientist;93%+in+National+IT+Skill+Competency+Test;Building+AI+that+actually+sees;Final+Year+Project+Position+Holder;Merit+Scholrship+Winner" alt="Typing SVG" />
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aka-Trophy-Hunter&color=A78BFA&style=flat-square&label=Profile+Views)
