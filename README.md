@@ -15,14 +15,14 @@
 
 ## 🧭 The Lore
 
-I'm **Moneeba** — a Software Engineering graduate (🏅 **Gold Medalist**, 2022–2026, University of Haripur) who wandered into computer vision and never looked back.
+I'm **Moneeba**, a Software Engineering graduate (🏅 **Gold Medalist**, 2022–2026, University of Haripur) who wandered into computer vision and never looked back.
 
-Currently gearing up to join **NRTC** as an **AI Engineer**, while building out research for **MS applications** in computer vision.
+Currently gearing up to become an **AI Engineer**.
 
 ```yaml
 focus:      Computer Vision, Multimodal Learning, Vision-Language Models
 tools:      Python · PyTorch · CLIP / ViT · React Native · Flask
-based_in:   Haripur / Islamabad, KPK, Pakistan
+based_in:   KP, Pakistan
 ```
 
 <br/>
@@ -41,19 +41,13 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 - Hybrid **CLIP + ViT** → **98.20% accuracy**, 40 artifact classes
 - Custom **TAD-8K** dataset, built from scratch
 - React Native/Expo · Flask · Firebase Auth
-- 🌍 5 languages: EN · UR · ZH · AR · RU
+- 🌍 10+ languages: EN · UR · ZH · AR · RU.....
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 Visual Token Compression
 **Adaptive compression for VLMs**
-
-Teaching Vision-Language Models to travel light.
-
-- Baseline vs. Top-K pruning vs. adaptive compression on ViT
-- Encoder-aware research, in collaboration with **MBZUAI**
-- Built toward MS CV applications
 
 </td>
 </tr>
