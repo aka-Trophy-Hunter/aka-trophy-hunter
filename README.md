@@ -121,9 +121,6 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-Trophy-Hunter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-Trophy-Hunter&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aka-Trophy-Hunter&theme=tokyonight&hide_border=true" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-Trophy-Hunter&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -137,8 +134,6 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 <div align="center">
 
 <i>"Every dataset is a map, every model a compass — the quest continues."</i>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=120&section=footer" width="100%"/>
 
