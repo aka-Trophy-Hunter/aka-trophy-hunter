@@ -43,11 +43,19 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 - 🌍 10+ languages: EN · UR · ZH · AR · RU.....
 
 </td>
+</td>
+
+<td width="50%" valign="top">
+
 ### 🔬 Medical Computer Vision
 **AI for Medical Image Analysis**
 
-Medical Imaging • Deep Learning • Image Segmentation
-</tr>
+- Medical Image Segmentation
+- Disease Detection & Classification
+- Explainable Medical AI
+- Vision Transformers for Healthcare
+
+</td>
 <tr>
 <td width="50%" valign="top">
 
