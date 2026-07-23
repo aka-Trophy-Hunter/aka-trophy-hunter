@@ -43,12 +43,10 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 - 🌍 10+ languages: EN · UR · ZH · AR · RU.....
 
 </td>
-<td width="50%" valign="top">
+### 🔬 Medical Computer Vision
+**AI for Medical Image Analysis**
 
-### 🧬 Visual Token Compression
-**Adaptive compression for VLMs**
-
-</td>
+Medical Imaging • Deep Learning • Image Segmentation
 </tr>
 <tr>
 <td width="50%" valign="top">
