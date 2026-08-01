@@ -14,7 +14,7 @@
 
 ## 🧭 The Lore
 
-I'm **Moneeba**, a Software Engineering graduate (🏅 **Gold Medalist**, 2022–2026, University of Haripur) who wandered into computer vision and never looked back.
+I'm **Moneeba Abrar**, a Software Engineering graduate (🏅 **Gold Medalist**, 2022–2026, University of Haripur) who wandered into computer vision and never looked back.
 
 Currently gearing up to become an **AI Engineer**.
 
