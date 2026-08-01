@@ -20,7 +20,7 @@ Currently gearing up to become an **AI Engineer**.
 
 ```yaml
 focus:      Computer Vision, Multimodal Learning, Vision-Language Models
-tools:      Python · PyTorch · CLIP / ViT · React Native · Flask
+tools:      Python · PyTorch · React Native · Flask
 based_in:   KP, Pakistan
 ```
 
