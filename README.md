@@ -40,8 +40,7 @@ An AI + AR mobile guide that brings ancient artifacts to life.
 - Hybrid **CLIP + ViT** → **98.20% accuracy**, 40 artifact classes
 - Custom **TAD-8K** dataset, built from scratch
 - React Native/Expo · Flask · Firebase Auth
-- 🌍 10+ languages: EN · UR · ZH · AR · RU.....
-
+- 🌍 10+ languages: EN · UR · ZH · AR · RU. & many more
 </td>
 </td>
 
