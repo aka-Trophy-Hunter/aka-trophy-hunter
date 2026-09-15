@@ -14,14 +14,12 @@
 
 ## 🧭 The Lore
 
-I'm **Moneeba Abrar**, a Software Engineering graduate (🏅 **Gold Medalist**, 2022–2026, University of Haripur) who wandered into computer vision and never looked back.
-
-Currently gearing up to become an **AI Engineer**.
+<h1 align="center">Hi, I'm Moneeba Abrar 👋</h1> <p align="center"> 🏅 <b>Medalist</b> · BS Software Engineering, 2022–2026 · The Prestigious University of Haripur </p> <p align="center"> <i>Currently gearing up to become <b>Artificially Intelligent</b>.</i> </p> <p align="center"> 🥉 Third Best Scientist in the Milky Way — the first two were taken. </p> <p align="center"> <i>Veni, Vidi, Vici.</i> </p>
 
 ```yaml
-focus:      Computer Vision, Multimodal Learning, Vision-Language Models
-tools:      Python · PyTorch · React Native · Flask
-based_in:   Pakistan
+focus:      SCREEN, CMD
+tools:      Mouse, Keys, Intellect
+based_in:   The Milky Way
 ```
 
 <br/>
