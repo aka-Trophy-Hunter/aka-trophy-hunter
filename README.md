@@ -14,10 +14,10 @@
 
 ## 🧭 The Lore
 
-<h1 align="center">Hi, I'm Moneeba Abrar 👋</h1> <p align="center"> 🏅 <b>Medalist</b> · BS Software Engineering, 2022–2026 · The Prestigious University of Haripur </p> <p align="center"> <i>Currently gearing up to become <b>Artificially Intelligent</b>.</i> </p> <p align="center"> 🥉 Third Best Scientist in the Milky Way — the first two were taken. </p> <p align="center"> <i>Veni, Vidi, Vici.</i> </p>
+<h1 align="center">Hi, I'm Moneeba Abrar 👋</h1> <p align="center"> 🏅 <b>Medalist</b> · BS Software Engineering, 2022–2026 </p> <p align="center"> <i>Currently gearing up to become <b>Artificially Intelligent</b>.</i> </p> <p align="center"> 🥉 Third Best Scientist in the Milky Way, the first two were taken. </p> <p align="center"> <i>Veni, Vidi, Vici.</i> </p>
 
 ```yaml
-focus:      SCREEN, CMD
+focus:      SCREEN
 tools:      Mouse, Keys, Intellect
 based_in:   The Milky Way
 ```
