@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=230&section=header&text=Moneeba%20Abrar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Gold+Medalist;Top+0.1%+Scientist;93%+in+National+IT+Skill+Competency+Test;Building+AI+that+actually+sees" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Gold+Medalist;Top+0.1%+Scientist;93%+in+National+IT+Skill+Competency+Test;Building+AI+that+actually+C" alt="Typing SVG" />
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aka-Trophy-Hunter&color=A78BFA&style=flat-square&label=Profile+Views)
@@ -11,8 +11,6 @@
 </div>
 
 <br/>
-
-## 🧭 The Lore
 
 <h1 align="center">Hi, I'm Moneeba Abrar 👋</h1> <p align="center"> 🏅 <b>Medalist</b> · BS Software Engineering, 2022–2026 </p> <p align="center"> <i>Currently gearing up to become <b>Artificially Intelligent</b>.</i> </p> <p align="center"> 🥉 Third Best Scientist in the Milky Way, the first two were taken. </p> <p align="center"> <i>Veni, Vidi, Vici.</i> </p>
 
